@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 BERTH_LENGTH_M = {"A1": 180, "A2": 180, "B1": 260, "B2": 310}
 
 # Minimum gap between departures and the next arrival on the same berth.
-TURNAROUND_BUFFER = timedelta(hours=0)
+TURNAROUND_BUFFER = timedelta(hours=2)
 
 
 @dataclass(frozen=True)
