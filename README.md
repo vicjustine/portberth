@@ -30,3 +30,5 @@ All vessel names and schedules in the tests are synthetic.
 Schedules are reviewed by the duty berth planner.
 
 Operated by the duty berth planner. 
+
+Berth assignments are reviewed before each tide window
