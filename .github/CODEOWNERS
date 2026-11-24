@@ -1,0 +1,8 @@
+# Default owner for anything not mached below
+* @vicjustine
+
+# Allocation logic carries the berth safety rules 
+/src/berthwatch/schedule.py @vicjustine
+
+# CI and governance config
+/.github/ @vicjustine
