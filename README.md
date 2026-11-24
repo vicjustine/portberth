@@ -28,3 +28,5 @@ All vessel names and schedules in the tests are synthetic.
 ## Operations
 
 Schedules are reviewed by the duty berth planner.
+
+Operated by the duty berth planner. 
